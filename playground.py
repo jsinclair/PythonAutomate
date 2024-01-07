@@ -1,6 +1,12 @@
 import random
 import pprint
 
+"""Multiline comment! 
+This is a playground file, 
+for testing concepts as I read them.
+Source: https://automatetheboringstuff.com/2e/
+"""
+
 def hello(name):
     print('Hello,', name)
 hello('Hannah')
